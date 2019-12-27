@@ -3,3 +3,26 @@ coverage/
 .DS_Store
 npm-debug.log
 dist/
+
+
+/client/.DS_Store
+/client/node_modules
+/client/dist
+
+# local env files
+/client/.env.local
+/client/.env.*.local
+
+# Log files
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+
+# Editor directories and files
+/client/.idea
+/client/.vscode
+/client/*.suo
+/client/*.ntvs*
+/client/*.njsproj
+/client/*.sln
+/client/*.sw?
